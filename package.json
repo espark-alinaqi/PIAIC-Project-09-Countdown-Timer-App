@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.1.2",
-    "inquirer": "^12.6.3",
+    "inquirer": "^13.2.2",
     "inquirer-date-prompt": "^3.0.0",
     "nanospinner": "^1.1.0"
   },
